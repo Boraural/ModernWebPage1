@@ -1,0 +1,58 @@
+.sky {
+    background-color: #2C3E50 !important;
+}
+
+.sky ul li a:hover {
+    color: #1ABC9C !important;
+    transition: 0.4s;
+}
+
+.section-1 {
+    background-color: #1ABC9C;
+    height: 100vh;
+}
+
+.section-1 h1 {
+    font-size: 3rem;
+}
+
+section .head-1 {
+    font-size: 3rem;
+}
+
+.section-3 {
+    background-color: #1ABC9C;
+}
+
+.section-3 h2 {
+    font-size: 3rem;
+    padding-top: 6rem !important;
+}
+
+.section-3 a {
+    font-size: 1.2rem;
+}
+
+.section-3 a:hover {
+    background-color: white;
+    color: black !important;
+    transition: 0.4s;
+}
+
+.section-4 {
+    background-color: #2C3E50;
+}
+
+.stbt {
+    color: #1ABC9C;
+}
+
+.stbt:hover {
+    color: #066350;
+    transition: 0.4s;
+}
+
+.section-5 .container-fluid {
+    height: 5rem;
+    background-color: #1A252F !important;
+}
